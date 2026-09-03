@@ -1,0 +1,22 @@
+{
+  "background": "#b9b95f",
+  "cardColor": "#6ea2d4",
+  "cardWidth": "600",
+  "cornerRadius": "16",
+  "fontFamily": "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif",
+  "fontSizeBase": "16",
+  "titleColor": "#1a1a1a",
+  "subtitleColor": "#888888",
+  "labelColor": "#545454",
+  "fieldBackground": "#fafafa",
+  "fieldBorder": "#e0e0e0",
+  "fieldFocusBorder": "#754ad9",
+  "fieldErrorBorder": "#e05252",
+  "buttonLabel": "Submit",
+  "buttonColor": "#1a1a1a",
+  "buttonText": "#ffffff",
+  "logo": "myLogo.png",
+  "logoWidth": "160",
+  "logoPosition": "center",
+  "darkMode": "auto"
+}
