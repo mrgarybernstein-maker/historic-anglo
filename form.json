@@ -6,12 +6,12 @@
     {
       "id": "don-t-mess-with-my-rights-roberge-mtly3wbe",
       "label": "DON’T MESS WITH MY RIGHTS, ROBERGE!!",
-      "type": "checkbox",
+      "type": "radio",
       "required": true,
       "options": [
         {
-          "value": "anglo,-who-co-founded-our-provice",
-          "label": "Anglo, who co-founded our provice",
+          "value": "anglo,-who-co-founded-our-province",
+          "label": "Anglo, who co-founded our province",
           "required": false
         },
         {
