@@ -28,9 +28,13 @@
     },
     {
       "id": "note-display",
-      "label": "N",
+      "label": " ",
       "type": "text-display",
-      "required": false
+      "required": false,
+      "textContent": "THIS IS YOUR I AM AN HISTORIC ANGLO CERTIFICATE",
+      "textSize": "heading",
+      "textAlign": "center",
+      "textStyle": "normal"
     }
   ],
   "optionSets": {
