@@ -28,7 +28,7 @@
     },
     {
       "id": "note-display",
-      "label": "NOTE",
+      "label": " ",
       "type": "text-display",
       "required": false,
       "textContent": "THIS IS YOUR I AM AN HISTORIC ANGLO CERTIFICATE",
