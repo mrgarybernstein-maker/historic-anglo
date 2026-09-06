@@ -28,7 +28,7 @@
     },
     {
       "id": "note-display",
-      "label": ".",
+      "label": "N",
       "type": "text-display",
       "required": false
     }
