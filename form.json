@@ -4,89 +4,26 @@
   "submitLabel": "Submit",
   "fields": [
     {
-      "id": "don-t-mess-with-my-rights-roberge-mtly3wbe",
-      "label": "DON’T MESS WITH MY RIGHTS, ROBERGE!!",
+      "id": "booking-for",
+      "label": "DON'T MESS WITH MY RIGHTS, ROBERGE!!",
       "type": "radio",
       "required": true,
       "options": [
-        {
-          "value": "anglo,-who-co-founded-our-province",
-          "label": "Anglo, who co-founded our province",
-          "required": false
-        },
-        {
-          "value": "allo,-who-helped-build-our-province",
-          "label": "Allo, who helped build our province",
-          "required": false
-        },
-        {
-          "value": "politician,-who-wrecked-our-province",
-          "label": "Politician, who wrecked our province",
-          "required": false
-        }
+        { "value": "anglo", "label": "Anglo, who co-founded our province", "required": false },
+        { "value": "allo", "label": "Allo, who helped build our province", "required": false },
+        { "value": "politician", "label": "Politician, who wrecked our province", "required": false }
       ]
     },
     {
-      "id": "this-is-your-historic-anglo-certificate-mtqcz64l",
+      "id": "note-display",
       "label": "NOTE",
       "type": "text-display",
+      "textContent": "THIS IS YOUR I AM AN HISTORIC ANGLO CERTIFICATE",
+      "textSize": "heading",
+      "textAlign": "center",
+      "textStyle": "normal",
       "required": false
     }
   ],
-  "optionSets": {
-    "provinces": [
-      {
-        "value": "AB",
-        "label": "AB – Alberta"
-      },
-      {
-        "value": "BC",
-        "label": "BC – British Columbia"
-      },
-      {
-        "value": "MB",
-        "label": "MB – Manitoba"
-      },
-      {
-        "value": "NB",
-        "label": "NB – New Brunswick"
-      },
-      {
-        "value": "NL",
-        "label": "NL – Newfoundland & Labrador"
-      },
-      {
-        "value": "NS",
-        "label": "NS – Nova Scotia"
-      },
-      {
-        "value": "NT",
-        "label": "NT – Northwest Territories"
-      },
-      {
-        "value": "NU",
-        "label": "NU – Nunavut"
-      },
-      {
-        "value": "ON",
-        "label": "ON – Ontario"
-      },
-      {
-        "value": "PE",
-        "label": "PE – Prince Edward Island"
-      },
-      {
-        "value": "QC",
-        "label": "QC – Québec"
-      },
-      {
-        "value": "SK",
-        "label": "SK – Saskatchewan"
-      },
-      {
-        "value": "YT",
-        "label": "YT – Yukon"
-      }
-    ]
-  }
+  "optionSets": {}
 }
