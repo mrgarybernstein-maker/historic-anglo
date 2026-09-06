@@ -9,21 +9,84 @@
       "type": "radio",
       "required": true,
       "options": [
-        { "value": "anglo", "label": "Anglo, who co-founded our province", "required": false },
-        { "value": "allo", "label": "Allo, who helped build our province", "required": false },
-        { "value": "politician", "label": "Politician, who wrecked our province", "required": false }
+        {
+          "value": "anglo",
+          "label": "Anglo, who co-founded our province",
+          "required": false
+        },
+        {
+          "value": "allo",
+          "label": "Allo, who helped build our province",
+          "required": false
+        },
+        {
+          "value": "politician",
+          "label": "Politician, who wrecked our province",
+          "required": false
+        }
       ]
     },
     {
       "id": "note-display",
-      "label": "NOTE",
+      "label": ".",
       "type": "text-display",
-      "textContent": "THIS IS YOUR I AM AN HISTORIC ANGLO CERTIFICATE",
-      "textSize": "heading",
-      "textAlign": "center",
-      "textStyle": "normal",
       "required": false
     }
   ],
-  "optionSets": {}
+  "optionSets": {
+    "provinces": [
+      {
+        "value": "AB",
+        "label": "AB – Alberta"
+      },
+      {
+        "value": "BC",
+        "label": "BC – British Columbia"
+      },
+      {
+        "value": "MB",
+        "label": "MB – Manitoba"
+      },
+      {
+        "value": "NB",
+        "label": "NB – New Brunswick"
+      },
+      {
+        "value": "NL",
+        "label": "NL – Newfoundland & Labrador"
+      },
+      {
+        "value": "NS",
+        "label": "NS – Nova Scotia"
+      },
+      {
+        "value": "NT",
+        "label": "NT – Northwest Territories"
+      },
+      {
+        "value": "NU",
+        "label": "NU – Nunavut"
+      },
+      {
+        "value": "ON",
+        "label": "ON – Ontario"
+      },
+      {
+        "value": "PE",
+        "label": "PE – Prince Edward Island"
+      },
+      {
+        "value": "QC",
+        "label": "QC – Québec"
+      },
+      {
+        "value": "SK",
+        "label": "SK – Saskatchewan"
+      },
+      {
+        "value": "YT",
+        "label": "YT – Yukon"
+      }
+    ]
+  }
 }
